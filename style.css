@@ -1,2 +1,3 @@
 body{background-color: rgb(221, 232, 228);}
-.cabecalho-lista{background-color: black; color: white; display: flex; justify-content: space-around;}
+.cabecalho{background-color: black; color: white; display: flex; justify-content: space-around;}
+.cabecalho-item
