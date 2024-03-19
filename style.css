@@ -1,3 +1,5 @@
 body{background-color: rgb(221, 232, 228);}
 .cabecalho{background-color: black; color: white; display: flex; justify-content: space-around;}
-.cabecalho-item
+.cabecalho-img{display: inline-block; margin: 0 16px; padding: 24px 0;
+    
+}
