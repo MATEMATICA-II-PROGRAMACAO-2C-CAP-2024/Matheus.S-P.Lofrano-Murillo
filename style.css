@@ -3,4 +3,4 @@ body{background-color: rgb(221, 232, 228);}
 .cabecalho-lista-item{display: inline-block; margin: 0 16px; padding: 24px 0; font-size: 28px;
 }
 .escola-img{ width: 25%;}
-.escola{ display: flex; color: white;}
+.escola{ display: flex; color: white; background: rgb(2,0,36);background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(2,51,61,1) 100%);}
